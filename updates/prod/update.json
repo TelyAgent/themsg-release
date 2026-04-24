@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "data": {
+    "value": {
+      "version": "2026.4.13",
+      "date": "2026-04-24",
+      "changeLog": {
+        "ch": {
+          "title": "当前已是最新版本",
+          "content": [
+            "初始化 TheMsg.ai 更新分发配置。"
+          ]
+        },
+        "en": {
+          "title": "You are up to date",
+          "content": [
+            "Initialized TheMsg.ai update distribution metadata."
+          ]
+        }
+      },
+      "macIntel": { "url": "" },
+      "macArm": { "url": "" },
+      "windowsX64": { "url": "" }
+    }
+  }
+}
