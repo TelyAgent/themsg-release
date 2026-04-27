@@ -2,25 +2,33 @@
   "code": 0,
   "data": {
     "value": {
-      "version": "2026.4.13",
+      "version": "2026.4.24",
       "date": "2026-04-24",
       "changeLog": {
         "ch": {
-          "title": "当前已是最新版本",
+          "title": "TheMsg.ai 2026.4.24",
           "content": [
-            "初始化 TheMsg.ai 更新分发配置。"
+            "集成 WhatsApp、Slack 等 IM Bot 平台。",
+            "优化多平台连接流程和应用更新分发。"
           ]
         },
         "en": {
-          "title": "You are up to date",
+          "title": "TheMsg.ai 2026.4.24",
           "content": [
-            "Initialized TheMsg.ai update distribution metadata."
+            "Added WhatsApp, Slack and other IM Bot platform integrations.",
+            "Improved multi-platform connection flow and app update distribution."
           ]
         }
       },
-      "macIntel": { "url": "" },
-      "macArm": { "url": "" },
-      "windowsX64": { "url": "" }
+      "macIntel": {
+        "url": "https://cdn.jsdelivr.net/gh/TelyAgent/themsg-release@main/downloads/v2026.4.24/TheMsg.ai-2026.4.24.dmg"
+      },
+      "macArm": {
+        "url": "https://cdn.jsdelivr.net/gh/TelyAgent/themsg-release@main/downloads/v2026.4.24/TheMsg.ai-2026.4.24-arm64.dmg"
+      },
+      "windowsX64": {
+        "url": "https://cdn.jsdelivr.net/gh/TelyAgent/themsg-release@main/downloads/v2026.4.24/TheMsg.ai%20Setup%202026.4.24.exe"
+      }
     }
   }
 }
