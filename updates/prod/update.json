@@ -21,13 +21,13 @@
         }
       },
       "macIntel": {
-        "url": "https://cdn.jsdelivr.net/gh/TelyAgent/themsg-release@main/downloads/v2026.4.24/TheMsg.ai-2026.4.24.dmg"
+        "url": "https://media.githubusercontent.com/media/TelyAgent/themsg-release/main/downloads/v2026.4.24/TheMsg.ai-2026.4.24.dmg"
       },
       "macArm": {
-        "url": "https://cdn.jsdelivr.net/gh/TelyAgent/themsg-release@main/downloads/v2026.4.24/TheMsg.ai-2026.4.24-arm64.dmg"
+        "url": "https://media.githubusercontent.com/media/TelyAgent/themsg-release/main/downloads/v2026.4.24/TheMsg.ai-2026.4.24-arm64.dmg"
       },
       "windowsX64": {
-        "url": "https://cdn.jsdelivr.net/gh/TelyAgent/themsg-release@main/downloads/v2026.4.24/TheMsg.ai%20Setup%202026.4.24.exe"
+        "url": "https://media.githubusercontent.com/media/TelyAgent/themsg-release/main/downloads/v2026.4.24/TheMsg.ai%20Setup%202026.4.24.exe"
       }
     }
   }
